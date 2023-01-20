@@ -7,8 +7,8 @@ You can go to one of the links below whenever you don't know what to read (bette
 #### Read
 
 ### Cool websites, miscellaneus stuff:
-https://jsomers.net
-https://telehack.com/
+https://jsomers.net (With many articles, book recommendations).
+https://telehack.com/ (Access the old era of the internet, hack your way into public hosts. Great game! Have to discover it more.)
 
 ## Offline stuff
 ### Movies
