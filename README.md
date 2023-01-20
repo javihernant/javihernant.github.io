@@ -36,6 +36,9 @@ Halt and Catch Fire (2014-2017)
 -Ender's game
 
 TODO:
+-Create a page "entertainment" (divide in: books, movies, websites)
+-Create a page "programming resources"
+-Create a page "my_writings" where I will write about anything that goes through my mind.
 -Create some kind of TODO list mechanism where I can check a read article (or watched movie, or similar) to pass it to the watched/read category
 -Automate somehow the process of adding a movie, article, etc. so it automatically adds the date when it was added, so later you can sort those by date of addition. (Maybe?)
 -Read https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site
