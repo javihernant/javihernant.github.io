@@ -8,6 +8,7 @@ You can go to one of the links below whenever you don't know what to read (bette
 
 ### Cool websites, miscellaneus stuff:
 https://jsomers.net
+https://telehack.com/
 
 ## Offline stuff
 ### Movies
