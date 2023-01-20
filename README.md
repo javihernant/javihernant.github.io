@@ -1,7 +1,7 @@
 # javihernant.github.io
 ## Why did I create this website?
 I didn't create it to show off the things I do. It was more of a tool I made for myself with two main purposes:
-1. Revisit content I enjoyed in the past. Kind of like having my virtual shelf where I put all my books, movies, etc. I love having a real physical book shelf, but (sadly) I don't have unlimited physical space. Also, this one I can access anywhere! 
+1. Revisit content I enjoyed in the past. You know how you go over your collection of books and you get the urge to re-read one? I love having a real physical book shelf, but (sadly) I don't have unlimited physical space. This would be like having a virtual (more organized) one. Plus, it has the advantage I can access it anywhere I am!
 2. Store the content I want to visit next. So, whenever I am bored I have an alternative to watching the first video I see in Youtube (for instance).
 ## Stuff I found on the internet
 You can go to one of the links below whenever you don't know what to read (better than scrolling down your twitter feed, huh?) 
