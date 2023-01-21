@@ -24,7 +24,6 @@ Brainstorm (1983)
 Sneakers (1992)
 Hackers (1995)
 Real Genius (1985)
-Halt and Catch Fire (2014-2017)
 #### Already watched
 -Terminator 1
 -Terminator 2
