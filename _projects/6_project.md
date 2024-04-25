@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img:
-importance: 4
-category: fun
+title: Stack Sorter
+description: A program that will look for the most efficient way to sort a list of elements using 2 stacks
+img: assets/img/hanoi.jpg
+redirect: https://gitlab.com/javihernant/philosophers
+importance: 1
+category: algorithms
 ---
 
 Every project has a beautiful feature showcase page.

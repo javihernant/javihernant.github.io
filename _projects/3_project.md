@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: Raycasting Engine
+description: Basic raycaster inspired by the classic Wolfenstain-3D game
+img: assets/img/wolfenstain.jpg
+redirect: https://github.com/javihernant/cub3d
 importance: 3
-category: work
+category: graphics
 ---
 
 Every project has a beautiful feature showcase page.

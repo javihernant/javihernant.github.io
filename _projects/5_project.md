@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
-importance: 3
-category: fun
+title: Dining philosophers
+description: A representation of the dining philosophers concurrency problem, originally formulated by Edsger Dijkstra
+img: assets/img/platon.jpg
+redirect: https://gitlab.com/javihernant/philosophers
+importance: 1
+category: os
 ---
 
 Every project has a beautiful feature showcase page.

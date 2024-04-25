@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
-importance: 3
-category: fun
+title: Bash-like shell
+description: Shell inspired on the main functionalities of bash. Includes a lexer and a parser.
+img: assets/img/terminal.png
+redirect: https://github.com/javihernant/mshell
+importance: 1
+category: os
 ---
 
 Every project has a beautiful feature showcase page.

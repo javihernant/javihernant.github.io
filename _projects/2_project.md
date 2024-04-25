@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: 3D landscape visualizer
+description: This program is a graphic tool to visualize 3D landscapes. A heightmap codifies data like surface elevation and pixel color and is later fed into the program for rendering.
+img: assets/img/landscape.png
+redirect: https://github.com/javihernant/fdf
 importance: 2
-category: work
-giscus_comments: true
+category: graphics
 ---
 
 Every project has a beautiful feature showcase page.
