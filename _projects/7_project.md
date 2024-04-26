@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Stack Sorter
-description: A program that will look for the most efficient way to sort a list of elements using 2 stacks
-img: assets/img/hanoi.jpg
-redirect: https://gitlab.com/javihernant/philosophers
-importance: 3
+title: Advent of Code 2023
+description: Solutions to coding problems from AOC 2023
+img: assets/img/aoc.png
+redirect: https://github.com/javihernant/aoc2023
+importance: 1
 category: algorithms
 ---
 

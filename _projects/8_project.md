@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Stack Sorter
-description: A program that will look for the most efficient way to sort a list of elements using 2 stacks
-img: assets/img/hanoi.jpg
-redirect: https://gitlab.com/javihernant/philosophers
-importance: 3
-category: algorithms
+title: Intel 8080 emulator
+description: Emulator of the old-school intel-8080 chip, famous for being used in space invaders retro arcades
+img: assets/img/8080.jpg
+redirect: https://github.com/javihernant/SpaceInvadersEmu
+importance: 1
+category: os
 ---
 
 Every project has a beautiful feature showcase page.
