@@ -3,7 +3,7 @@ layout: page
 title: Stack Sorter
 description: A program that will look for the most efficient way to sort a list of elements using 2 stacks
 img: assets/img/hanoi.jpg
-redirect: https://gitlab.com/javihernant/philosophers
+redirect: https://github.com/javihernant/push_swap
 importance: 3
 category: algorithms
 ---
